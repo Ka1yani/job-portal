@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
-        "bellplus"
+        "bellplus",
+        "tabler"
     ],
     "files.watcherExclude": {
         "**/target": true
